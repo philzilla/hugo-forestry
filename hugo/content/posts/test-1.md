@@ -1,6 +1,5 @@
 +++
 date = "2018-03-17T23:34:28+00:00"
-draft = true
 title = "test 1"
 
 +++
